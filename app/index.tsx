@@ -4,7 +4,7 @@ import { Ionicons } from "@expo/vector-icons"
 import { Checkbox } from "expo-checkbox"
 import { useState, useEffect } from "react";
 import AsyncStorage from "@react-native-async-storage/async-storage"
-import { SearchBar } from "react-native-screens";
+//import { SearchBar } from "react-native-screens";
 type ToDoType = {
   id: number,
   title: string,
